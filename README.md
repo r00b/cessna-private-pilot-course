@@ -1,2 +1,3 @@
-# cessna-private-pilot-course
-Notes from the Cessna Sport/Private Pilot course
+# Cessna Sport/Private Pilot Course
+
+This repository contains my notes from King Schools' Cessna Sport/Private Pilot Course.
