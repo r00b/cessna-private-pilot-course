@@ -175,9 +175,9 @@
 * Airplane may tend to veer left; apply larger amount of right rudder early in takeoff
 * Gently pull back on yoke and let airplane fly itself off the runway
 * Establish proper pitch attitude, just below 10 degree mark, to accelerate to
-* V_x: *best angle of climb, at 62 knots* to reach highest altitude in shortest distance
+* V<sub>x</sub>: *best angle of climb, at 62 knots* to reach highest altitude in shortest distance
 and
-* V_y: *best rate of climb, at 74 knots* to reach highest altitude in shortest time
+* V<sub>y</sub>: *best rate of climb, at 74 knots* to reach highest altitude in shortest time
 * See [this page](https://cessnaflighttraining.kingschools.com/CCF/Lesson/Page?lessonId=10011&page=9)
 * Right rudder common to compensate for left-turning tendency
 * Look back and maintain centerline, especially because of parallel runways
