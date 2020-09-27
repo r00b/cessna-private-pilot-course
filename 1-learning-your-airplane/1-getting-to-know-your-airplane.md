@@ -66,11 +66,17 @@
 ### Ready for Flight
 
 * **IMSAFE** checklist for physical and mental readiness
+
 **I**llness
+
 **M**edication - check [FAA-permitted OTC medications](https://www.faa.gov/licenses_certificates/medical_certification/media/OTCMedicationsforPilots.pdf)
+
 **S**tress
+
 **A**lcohol - in the past 8, 12, 24 hours? A hangover counts as under the influence of alcohol; see [FAA Alcohol & Flying](https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/alcohol.pdf) brochure
+
 **F**atigue & **F**ood - skipped a meal?
+
 **E**motion - recent arguments? How are you feeling?
 
 #### Weather
