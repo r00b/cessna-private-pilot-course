@@ -1,4 +1,7 @@
-- [I. Basic Principles of Flight](#i-basic-principles-of-flight)
+# How an Airplane Flies
+
+- [How an Airplane Flies](#how-an-airplane-flies)
+  - [I. Basic Principles of Flight](#i-basic-principles-of-flight)
     - [The Forces of Flight](#the-forces-of-flight)
       - [Bernoulli's Principle](#bernoullis-principle)
     - [When Airflow is Disrupted](#when-airflow-is-disrupted)
@@ -11,7 +14,7 @@
       - [Too much rudder or too soon](#too-much-rudder-or-too-soon)
       - [Too little or too late](#too-little-or-too-late)
       - [Just right](#just-right)
-- [II. Controlling the Airplane in Flight](#ii-controlling-the-airplane-in-flight)
+  - [II. Controlling the Airplane in Flight](#ii-controlling-the-airplane-in-flight)
     - [Making Turns](#making-turns)
       - [Banks](#banks)
     - [Understanding Load Factor](#understanding-load-factor)
@@ -45,7 +48,7 @@
       - [Using flaps to take off](#using-flaps-to-take-off)
       - [Using flaps to land](#using-flaps-to-land)
 
-# I. Basic Principles of Flight
+## I. Basic Principles of Flight
 
 ### The Forces of Flight
 Four main forces:
@@ -121,7 +124,7 @@ Four main forces:
 * "Step on the ball" - apply rudder pressure on side that the ball is violating out towards
 * *Glance* at this instrument after you have established the turn; use horizon and pressure in eat as visual and physical indicators of a coordinated turn
 
-# II. Controlling the Airplane in Flight
+## II. Controlling the Airplane in Flight
 
 ### Making Turns
 * Some vertical lift will be converted into horizontal lift

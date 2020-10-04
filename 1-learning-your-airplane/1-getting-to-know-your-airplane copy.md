@@ -1,11 +1,14 @@
-- [I. Exploring the Airplane](#i-exploring-the-airplane)
+# Getting to Know Your Airplane
+
+- [Getting to Know Your Airplane](#getting-to-know-your-airplane)
+  - [I. Exploring the Airplane](#i-exploring-the-airplane)
     - [The Main Parts of the Airplane](#the-main-parts-of-the-airplane)
       - [Empennage](#empennage)
     - [The Airplane's Flight Controls](#the-airplanes-flight-controls)
       - [Ailerons](#ailerons)
       - [Rudder](#rudder)
       - [Throttle](#throttle)
-- [II. Getting Ready for Flight](#ii-getting-ready-for-flight)
+  - [II. Getting Ready for Flight](#ii-getting-ready-for-flight)
     - [Ready for Flight](#ready-for-flight)
       - [Weather](#weather)
         - [Temperature](#temperature)
@@ -14,7 +17,7 @@
     - [Safe Habits Around Airplanes](#safe-habits-around-airplanes)
     - [Checking the Airplane Before Flight](#checking-the-airplane-before-flight)
     - [Engine Start](#engine-start)
-- [III. Controlling the Airplane's Motion](#iii-controlling-the-airplanes-motion)
+  - [III. Controlling the Airplane's Motion](#iii-controlling-the-airplanes-motion)
     - [Controlling the Airplane on the Ground](#controlling-the-airplane-on-the-ground)
       - [Taxiing](#taxiing)
       - [Run-Up](#run-up)
@@ -32,7 +35,7 @@
     - [After the Flight](#after-the-flight)
       - [Pushing the aircraft](#pushing-the-aircraft)
 
-# I. Exploring the Airplane
+## I. Exploring the Airplane
 
 ### The Main Parts of the Airplane
 * Cessna 172P engine produces 150-160 horsepower
@@ -60,7 +63,7 @@
 * Attached to engine via cable; pushing **IN** opens throttle and increases power, pulling **OUT** closes throttle and decreases power
 
 
-# II. Getting Ready for Flight
+## II. Getting Ready for Flight
 
 ### Ready for Flight
 
@@ -133,7 +136,7 @@
 * Follow checklist to start engine; idle at 1000 RPM after start; [see this page](https://cessnaflighttraining.kingschools.com/CCF/Lesson/Page?lessonId=10008&page=6) for abbreviated checklist
 
 
-# III. Controlling the Airplane's Motion
+## III. Controlling the Airplane's Motion
 
 ### Controlling the Airplane on the Ground
 
