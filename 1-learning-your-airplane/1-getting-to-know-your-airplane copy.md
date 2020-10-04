@@ -32,7 +32,6 @@
     - [After the Flight](#after-the-flight)
       - [Pushing the aircraft](#pushing-the-aircraft)
 
-
 # I. Exploring the Airplane
 
 ### The Main Parts of the Airplane
