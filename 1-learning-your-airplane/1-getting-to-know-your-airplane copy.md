@@ -201,7 +201,7 @@ and
 ### Straight-and-Level Flight
 * Perform cruise checklist
 * Start transition at about 10% of the vertical speed
-  * i.e. leveling off at 500 fpm, push nose down approximately 50 feet before the altitude you want ot level off at
+  * i.e. leveling off at 500 FPM, push nose down approximately 50 feet before the altitude you want to level off at
 * Wait for speed to build up to cruise speed (around 90 knots)
 * Reduce power to desired RPM (2200-2300)
 * Adjust trim
@@ -259,7 +259,7 @@ At desired altitude...
 
 #### Descents
 * Pull throttle to 1500 RPM or idle
-* **Let** the nose pitch down (about 5°); use sign picture; *glance* at flight display
+* **Let** the nose pitch down (about 5°); use sight picture; *glance* at flight display
 * Trim to relieve control pressures
 At desired altitude...
 * Ease back on yoke

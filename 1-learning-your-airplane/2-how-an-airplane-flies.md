@@ -122,7 +122,7 @@ Four main forces:
 * Airplane rolls around longitudinal axis, does not yaw, and rate of turn increases as bank angle increases
 * Ball coordinator instrument
 * "Step on the ball" - apply rudder pressure on side that the ball is violating out towards
-* *Glance* at this instrument after you have established the turn; use horizon and pressure in eat as visual and physical indicators of a coordinated turn
+* *Glance* at this instrument after you have established the turn; use horizon and pressure in seat as visual and physical indicators of a coordinated turn
 
 ## II. Controlling the Airplane in Flight
 
@@ -188,14 +188,14 @@ Steep bank angle turns beyond 30° should generally be avoided for this reason (
 
 #### Climbs
 * Mixture rich, landing light optionally on
-* For climbing more than 200 feet, icnrease power and add right rudder pressure
+* For climbing more than 200 feet, increase power and add right rudder pressure
 * Generally pitch to a climb altitude approximately 10° above the horizon indicator
 * Pitch down if airspeed too low
 * Pitch up if airspeed too high
 * Adjust trim
 
 #### Transitioning to straight-and-level
-* Start leveloff at approximately 10% of vertical climb rate
+* Start level off at approximately 10% of vertical climb rate
   * i.e. climbing at 400 feet per minute, start level off approximately 40 feet prior to desired altitude
 * Ease nose down to level attitude
 * Leave power setting at climb power and let airspeed build; hold nose of airplane at level flight attitude
@@ -292,7 +292,7 @@ Two types of drag:
 
 * Airplanes are designed with aerodynamic compensations to correct for left-turning tendency at cruise speed
   * Engine is often offset slightly to the right
-  * Trailing adge of vertical stabilizer may be canted a little to the right
+  * Trailing edge of vertical stabilizer may be canted a little to the right
   * Left wing may have a slightly greater angle of attack
 * Only compensate at cruise speed
   * Right rudder for higher power settings/lower speed
@@ -359,20 +359,20 @@ Two types of drag:
 ![Ground effect](images/ground-effect.png)
 
 * Vortices flow outward and around wing tips, hit the top of the wing, and reduce left
-* These vortices are reduced over a surface because they are physically blocked from reaching teh wing
+* These vortices are reduced over a surface because they are physically blocked from reaching the wing
 * This increases lift and reduces drag; can flow at a slower speed and with less power
 
 #### Ground effect on takeoff
 * Ground effect can cause your airplane to lift off at an airspeed too slow for flying out of ground effect
 * Once you exit ground effect, lift decreases and drag increases, requiring more thrust and higher AOA; this also increases the stall speed
-* Lifting off prematurely creates possibility of setting back on runway and increases available distance to clear an obstacle
+* Lifting off prematurely creates possibility of setting back on runway and decreases available distance to clear an obstacle
 * **Do not allow airplane to lift off until recommended airspeed is reached**
 
 #### Ground effect on landing
 * Excess speed on landing can result in extra floating distance
 * Reduce power as airplane descends into ground effect to avoid overshooting
 * If you experience floating...
-  * Do not let airplane drif off centerline
+  * Do not let airplane drift off centerline
   * Control lateral movement with ailerons and rudder
   * Do not force touchdown at faster-than-normal airspeed (you could land on the nose wheel)
   * Go around if there is insufficient runway remaining
@@ -395,7 +395,7 @@ These are essential for control.
 * Small control service hinged at trailing edge of primary flight control
 * Applies force on a primary flight control in opposite direction; neutralizes or reduces pressure required on the primary flight control
 * Airspeed and power will change the constant pressure needed on the flight controls, and trimming off the control prevents maintaining continuous pressure, pilot fatigue, and sloppy control
-* Trim tabs can be *fixed* or moveable
+* Trim tabs can be *fixed* or *moveable*
 * Fixed trim tabs are set at the factory (C172 rudder)
 * Moveable trim tabs can be moved electrically or manually from the cockpit
 * Moving the trim tab moves opposite the direction of desired control surface movement
@@ -411,7 +411,7 @@ These are essential for control.
 * Change shape of the wing to **increase lift, increase drag, and decrease stall speed**
 * Flaps allow takeoff and landing at a slower speed in shorter distance
 * Descend at steeper rate and angle of descent without increase in airspeed
-* Use fleps when you want to **get down or slow down**
+* Use flaps when you want to **get down or slow down**
 
 * Flaps change the camber of the wing and sometimes increase its surface area
 * This changes stall speed
