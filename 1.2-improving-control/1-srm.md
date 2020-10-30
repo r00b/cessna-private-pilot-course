@@ -67,6 +67,7 @@
 #### PAVE
 * **P**ilot
   * How are you feeling
+  * IMSAFE is within this acronym
 * **A**ircraft
   * Aircraft condition, range/altitude capabilities
 * En**V**ironment
