@@ -131,3 +131,241 @@
 * Runway width may also create same illusions
 
 ### Crosswind Landing
+* Determining the crosswind component
+  * Wind is not usually aligned exactly with runway on which you will be landing
+  * When not perfectly aligned, there will be a headwind component and a crosswind component
+  * Crosswind component is value of effective wind at 90° to the runway and is always less than the absolute value of the wind
+  * Must correct for crosswind component so that you don't land while moving sideways (could damage landing gear) and wind does not pick up a wing (could flip airplane over)
+
+![Crosswind component chart](images/crosswind-component-chart.png)
+
+* How to use the crosswind component chart
+  * Determine by observation or via ATIS the wind direction and velocity along with the runway in use
+  * Determine the angle between wind direction and the runway
+    * Example: wind is 240 degrees at 10 knots, runway 27 is in use
+      * Difference between wind (240) and runway direction (around 270) is 30 degrees
+    * Locate angle on the appropriately labeled line
+    * Follow line down to the appropriate arc representing the wind velocity
+    * Mark that spot; draw line across to left for headwind component and down for crosswind component
+* POH has maximum demonstrated crosswind capability (maximum crosswind an experienced company test pilot could safely demonstrate; does not necessarily indicate your skills)
+* Crosswind landings are more difficult than crosswind takeoffs
+  * Difficult to maintain accurate control of airplane while speed is decreasing (rather than increasing on takeoff)
+* Two methods: crab and wing low; combination of both is most common
+* Crab method
+  * Set heading on final to correct for wind drift
+  * Physically easier for pilot to maintain during final approach
+  * More comfortable for passengers because it is coordinated
+  * Crab must be remove before touchdown to keep airplane from landing sideways and from damaging landing gear
+* Wing-low method
+  * Also known as a *sideslip*
+  * Is uncoordinated, and therefore uncomfortable for passengers
+  * Apply aileron into the wind to match the horizontal component of lift with the crosswind component of the wind
+  * Opposite rudder to hold longitudinal axis straight down centerline of runway
+  * Applied late on final and held until after touchdown
+* You have reached crosswind capability of airplane when full rudder is required to hold longitudinal axis of airplane straight down the centerline of the runway, even if still able to steepen the bank angle with the ailerons
+  * Additional bank would just cause airplane to turn, even though full opposite rudder is being applied
+
+#### Crosswind touchdown
+* Maintain bank angle into the wind and rudder to align longitudinal axis with runway
+* During gusty or high wind conditions, prompt adjustments to bank angle must be made to ensure airplane does not drift sideways
+* Maintain directional control during after-landing roll - do not let airplane weathervane into the wind - use rudder
+* Keep upwind wing from rising by increasing use of aileron as airplane slows done (full deflection by the time airplane comes to a complete stop)
+* Common errors
+  * Attempting to land in crosswinds that exceed airplane's maximum crosswind component or pilot abilities/skill level
+  * Inadequate compensation on final for wind drift
+    * and increased drag during wing-low method, resulting in excessive sink rate and/or too low an airspeed
+    * results in excessive sink rate and/or too low an airspeed
+  * Touching down while drifting
+  * Failure during rollout to apply appropriate flight control inputs, maintain directional control, and increase aileron deflection into the wind as airplane slows down
+
+### Visual Glide Path Indicators
+* Visual Approach Slow Indicator (VASI)
+* Uses 2 or 3 light bars: near, middle (if used), and far
+  * Usually a 3° angle but may be as high as 4.5°
+* Projects white light in upper part of beam and red light in lower
+* Daytime from 3 to 5 miles and at night up to 20 miles
+* Provides safe obstruction clearance for 10 degrees either side of the extended runway centerline out to 4 miles from the runway threshold
+* Red over white: you're all right
+* Red over red: you're dead (below glide)
+* White over white: you'll fly all night (above glide)
+
+![VASI](images/vasi.png)
+
+* Precision Approach Path Indicator (PAPI)
+* Single row of either two or four lights
+* Daytime range up to 5 miles, nighttime up to 20 miles
+
+![PAPI](images/papi.png)
+
+* Pulsating VASI - PVASI
+* Single light unit projecting two-color visual approach plan
+* **Above glide path**: pulsating white light
+  * Higher above glide path, faster the pulsations
+* **On glide path**: steady white light
+* **Slightly below glide path**: steady red light
+* **Below glide path**: pulsating red light
+  * Lower below the glide path, lower the pulsations
+* Do not confuse without other light sources
+* Daytime range up to 4 miles, nighttime up to 10 miles
+
+* Tri-color VASI: rarest
+* Single light that projects three colors
+* Amber: too hight
+* Green: on glide path
+* Red: too lower
+* Daytime range of 1/2 to 1 mile, nighttime up to 5 miles
+* May briefly appear amber when transitioning from green to red
+
+![Tri-color VASI](images/trivasi.png)
+
+### Corrections while landing
+* Including adjusting throttle, pitch, or control yoke
+* Use ailerons to control wind drift
+* Use rudder to keep longitudinal axis of airplane lined up with extended runway centerline
+* Must correct for wind gusts, too high, too low, too fast, too slow
+* Good landing starts with good approach
+* Constant, small pressures over jerky movements
+* Be mindful of overcorrecting; apply correction and *wait long enough to see effect*
+* Do, observe, adjust
+
+### Going Around
+* When to reject landing
+  * Approach is not stabilized
+  * Speed, pitch attitude, and/or glide path are varying unacceptably
+  * Approach is unsafe
+    * Not lined up with runway centerline
+    * Won't touch down in first third of runway
+    * Speed is not in proper range
+  * Hazard on runway
+  * Wind shear or wake turbulence
+* Normal maneuver; not an emergency maneuver
+* The earlier you recognize a rejected landing, the safer it will be
+* Procedures
+* Power, Altitude, Configuration
+* **Power**: apply full power smoothly and without hesitation when you decide to go around
+  * Right rudder to keep nose straight
+  * Attitude is critical when close to down
+  * After adding power, will need to keep nose from pitching up prematurely
+  * May require forward pressure on yoke; fight the urge to pull nose up
+  * Build up sufficient airspeed before trying to gain altitude or turn
+* **Configuration**: flaps should be retracted in increments to takeoff setting (avoid sudden loss in lift)
+* Positive rate of climb at V<sub>Y</sub>
+
+![Go-around](images/go-around.png)
+
+* It's ok if airplane touches runway during go around, don't change mind and commit to go-around
+* Once airplane is under control (flaps up, established in climb)
+  * Advise tower that you are going around
+  * Or, advise CTAF of go-around
+
+## II. Learning About Stalls
+
+### Stall Theory
+* Lift is affected by changes in airspeed
+* Increasing airspeed increases lift and vice versa
+
+* Stall occurs when airflow is disrupted over airplane's wing, resulting in a loss of lift
+* Occurs when airplane exceeds critical angle of attack
+  * (AOA is angle between chord line and relative wind)
+  * Air can no longer conform to top of wing when exceeding critical angle of attack
+  * Backfills, burbles, and eddies, destroys lift, and stalls the wing
+  * An airfoil always stall at the same critical AOA regardless of airspeed, weight, load factor, or density attitude
+* Most small airplanes have critical AOA of between 16 and 20 degrees (16 for C172)
+* Easy to exceed critical AOA while flying slow, fast, or while turning
+  * Can stall at any airspeed or attitude; not necessarily flying slow or in nose-high condition
+
+![Stall](images/stall.png)
+
+* Stall speed is **not** a fixed value for all flight situations
+  * V<sub>S</sub> (stall speed with no flaps) is 48 KIAS
+  * V<sub>SO</sub> (stall speed with full laps) is 40 KIAS
+* Rises in turns with steep banks
+  * Centrifugal force is added to airplane's weight
+  * Thus more back pressure necessary
+  * Thus increases wing AOA
+* Steep bank angles at slow airspeeds should be avoided
+  * 30° of bank or less in traffic pattern
+
+![Stall speed with load factor](images/load-factor-stall-speed.png)
+
+### Mastering the Stall
+* Airplane is designed to stall at wing root first and progress outward towards wingtips
+* Allows ailerons to remaind effective during a stall which provides more controllability
+* When stall is about to occur
+  * Wind notice decrease in wind noise
+  * Mushy flight controls
+  * Stall warning horn (5-10 knots before stall)
+  * Airplane will buffet/shake as airflow becomes turbulent
+* Stall is *imminent* when buffeting is occurring with stall warning horn sounding
+* Stall is *full* when nose drops as a result of loss of lift
+* Stall recovery: three actions
+  * Decrease pitch attitude and AOA
+  * Apply maximum allowable power
+  * Regain straight-and-level flight with coordinated use of all flight controls
+* On recovery, if flaps extended, wait until reaching V<sub>Y</sub> to retract last flap setting
+* Then climb, return to straight-and-level, and set throttle to cruise power setting
+* Goal is to lose as little altitude as possible
+  * Pitch down should be timely and appropriate, not dramatic
+  * Pitch up when airspeed allows
+* In a coordinated stall, nose will drop straight ahead (no wing drop)
+  * Proper use of rudder prevents wing drop
+* If a wing drops, release back pressure on yoke, use coordinated aileron and rudder to level the wings
+
+### Stall Situations
+* Power-on stalls
+  * Can be performed using no or 10°
+    * Stall with flaps will occur at a lower speed
+  * Using full or partial power
+  * Wait until at takeoff speed or lower to initiate application of power and pitch
+  * Slowly, smoothly, and constantly increase power and back pressure and apply right rudder
+  * Increase pitch to an attitude that the airplane cannot sustain
+  * Increase right rudder as pitch attitude increases
+  * If in bank, maintain bank with coordinated aileron and rudder
+  * More right rudder as you approach stall and left-turning tendencies increase
+  * Common errors
+    * Failure to use enough right rudder to stay coordinated
+    * Failure to keep increasing back-pressure as pitch attitude increases
+  * Hints
+    * Slower the entry speed when initiating stall, less pitch up when power is applied
+    * Anticipate all power with rudder to keep airplane coordinated
+    * Be prepared for nose to break more quickly than with the power-off stall
+* Situations that may cause a stall
+  * Tightening a turn from base to final
+  * Maneuvering around something on the ground
+  * Leveling off after a descent and forgetting to bring power in
+
+### Spin Awareness
+* Stall in which one wing is more fully stalled than the other
+* Result of an uncoordinated stall (slipping or skidding stall)
+* Less-stalled wing continues to produce some lift, rises, reduces angle of attack to below critical AOA, increasing lift
+* More-stalled wing produces even less lift
+* Wing drops, further increasing AOA and stalling more deeply, and decreasing lift
+
+![Spin](images/spin.png)
+
+* A spin is a stable condition
+* Airplane autorotates in a nose-down attitude on its own without pilot input
+* Airplane will continue in this condition unless pilot takes action to recover
+* TARE
+  * **T**hrottle to idle
+  * **A**ilerons neutralized
+  * **R**udder full to stop in opposite direction of the spin
+  * **E**levator briskly to forward of neutral
+* After rotation stops, neutralize rudder, and cautiously use elevator to bring nose up to level attitude
+
+![Stages of a spin](images/spin-2.png)
+
+* Airplane must be both stalled and uncoordinated (slipping or skidding) to spin
+* Accidental spins are most likely during skidding turn from base to final or an uncoordinated power-on stall
+
+#### Accidental Spin Entry
+* Turning from base leg to final approach
+  * When overshooting final approach course...
+  * ...avoid steep banks near ground
+  * Pilots may use rudder only to realign with runway, resulting in skidding turn
+  * Or add back pressure to compensate for loss of vertical lift, entering a stall that leads to a spin
+* Departure climb
+  * At high power and low airspeed, airplane wants to turn left
+  * Pilot uses insufficient right rudder
+  * Airspeed decreases and airplane enters stall that leads to spin
+* When demonstrating stall, use rudder to keep wings level (avoid accidental wing-drop that may lead to a spin)
