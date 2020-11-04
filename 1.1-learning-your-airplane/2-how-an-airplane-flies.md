@@ -120,9 +120,9 @@ Four main forces:
 #### Just right
 * You will feel pressed down in your seat without any sideways/leaning sensation
 * Airplane rolls around longitudinal axis, does not yaw, and rate of turn increases as bank angle increases
-* Ball coordinator instrument
-* "Step on the ball" - apply rudder pressure on side that the ball is violating out towards
-* *Glance* at this instrument after you have established the turn; use horizon and pressure in seat as visual and physical indicators of a coordinated turn
+* Turn coordinated instrument
+  * "Step on the ball" - apply rudder pressure on side that the ball is violating out towards
+  * *Glance* at this instrument after you have established the turn; use horizon and pressure in seat as visual and physical indicators of a coordinated turn
 
 ## II. Controlling the Airplane in Flight
 
@@ -136,10 +136,8 @@ Four main forces:
   * Airplane will maintain constant bank will little aileron or rudder pressure
 * Steep: 45° or more
   * Opposite aileron and rudder pressure needed to keep airplane from rolling into a steeper bank
-
 * 30° is a typical bank for a turn
 * May need to increase power during a turn to maintain airspeed
-
 * Start rolling out of a turn when about 1/2 the bank angle away from the desired heading; so, in a 30 degree turn, start rolling out about 15 degrees before the desired heading
 * To roll out, apply coordinated opposite aileron and rudder pressure, and **release bank pressure as bank angle decreases**
 
@@ -215,12 +213,11 @@ for more than a 200 feet descent...
 * May need to use some left rudder pressure
 
 #### Transitioning back to straight-and-level
-* Start level off at approximately 10% of vertical clime rate, similar to climbing
+* Start level off at approximately 10% of vertical descent rate, similar to climbing
 * Apply back pressure on the yoke to raise the nose to level attitude
 * Increase RPM to cruise
 * Trim
 * Reset mixture as noted above
-
 * Anything climb or descent of more than 200 feet necessitates throttle adjustment
 * Otherwise, just use the yoke
 
@@ -236,7 +233,7 @@ Two types of drag:
 
 ![Drag](images/drag.png)
 
-**D<sub>induced</sub> + D<sub>parasite</sub> = D<sub>total</sub>
+* D<sub>induced</sub> + D<sub>parasite</sub> = D<sub>total</sub>
 
 #### Best Glide Speed
 * At power off, an airplane will glide the greatest distance at the **best glide speed**
@@ -245,7 +242,7 @@ Two types of drag:
   * Airspeed where total drag is the least
   * Point with highest ratio of lift to drag
   * May be shown in a PFD (primary flight display) with a "G" indicator
-  * Varies with weight; lower weight &#8594; slower best glide speed; heavier weight &#8594; faster best glid speed
+  * Varies with weight; lower weight &#8594; slower best glide speed; heavier weight &#8594; faster best glide speed
   * Reduce glide speed by 5% for every 10% below max gross weight
   * Include best glide speed in takeoff briefing
 
@@ -257,7 +254,7 @@ Two types of drag:
 * Glide distance will be less if you fly faster or slower than your best glide speed
 * Glide *speed* changes with weight, but not glide *distance*
   * Lift-over-drag ratio is based on the shape of the airplane, so airplane will glide the same descent path regardless of weight
-  * Lighter aircraft means it can fly slower to get the best glide speed
+  * Lighter aircraft means it can fly slower to get the best glide distance
 * Time it takes you to glide to the ground will be less for a heavier airplane because it is flying the descent path faster
 * Time it takes you to glide to the ground will be more for a lighter airplane because it is flying the descent path slower
 * Lower the weight means more time in the descent if you have a problem during takeoff or flight
@@ -399,7 +396,6 @@ These are essential for control.
 * Fixed trim tabs are set at the factory (C172 rudder)
 * Moveable trim tabs can be moved electrically or manually from the cockpit
 * Moving the trim tab moves opposite the direction of desired control surface movement
-
 * The trim tab **moves the actual control surface to a position equivalent to what the previously necessary control pressure established**
 * Nose-down trim: moves trim tab up, forcing elevator down, driving tail up, driving nose down
 * Nose-up trim: moves trim tab down, forcing elevator up, driving tail down, driving nose up
@@ -412,7 +408,6 @@ These are essential for control.
 * Flaps allow takeoff and landing at a slower speed in shorter distance
 * Descend at steeper rate and angle of descent without increase in airspeed
 * Use flaps when you want to **get down or slow down**
-
 * Flaps change the camber of the wing and sometimes increase its surface area
 * This changes stall speed
 * Cessna 172SP stalls

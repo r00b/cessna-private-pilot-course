@@ -38,10 +38,9 @@
 * Positive static stability: initial tendency of nose to come back up
 * Positive dynamic stability: initial tendency over time for oscillations to correct
 * Positive static stability is required for positive dynamic stability
-* Neutral static stability: airplane tends to stay where it is displacede to
+* Neutral static stability: airplane tends to stay where it is displaced to
 * Negative static stability: airplane tends to continue in the direction it is being displaced
 * Cessnas have positive static and dynamic stability
-
 * Longitudinal (pitch) stability is determined by center of gravity (CG) compared to the location of center of lift (CL)
 * Cessnas have CG forward of CL, making them stable
 
@@ -85,7 +84,7 @@
 * Heading is the direction the airplane is pointed in relation to magnetic north
 * *Magnetic* north (Earth's magnetic field), not *true* north
 * Headings are expressed in degrees clockwise from magnetic north
-  * North is 0° but moree commonly 360°
+  * North is 0° but more commonly 360°
   * East is 90°
   * South is 180°
   * West is 270°
@@ -95,7 +94,7 @@
 * A **heading indicator** is gyroscopically stabilized to avoid the errors in the magnetic compass that occur when you are turning or accelerating/decelerating
 * Match heading indicator to compass when not turning, accelerating, or decelerating
 * **Must reset heading indicator about every 15 minutes**
-* Electronic flight display gets heading information from remote magnetometer that is stablizied to avoid compass errors
+* Electronic flight display gets heading information from remote magnetometer that is stabilized to avoid compass errors
 * Heading indicators have a heading bug to set desired heading
   * Good idea for setting to runway heading to ensure on proper runway
   * Good idea for settings to direction the local winds are from during taxi
@@ -170,7 +169,7 @@
 * Induced drag
   * Comes from production of lift
   * Decreases as airspeed increases
-  * Icreases with AOA
+  * Increases with AOA
 * Parasite drag
   * Increases as airspeed increases
   * Combination of
@@ -217,7 +216,7 @@
 #### Descents
 * Reduce power to 1500 RPM or idle
 * Reduce right rudder
-* Pitch to maintain 55 knots, descent 200 feet, add power and right rudder back to original setting
+* Pitch to maintain 55 knots, above goal altitude by 200 feet, add power and right rudder back to original setting
 
 #### Recovery
 * Apply full power
@@ -226,12 +225,10 @@
 * Gain airspeed
 * Reduce flap settings
 * Once at normal speed, reduce power back to normal cruise power setting, reduce right rudder
-
 * Minimum controllable airspeed is speed at which stall will result if:
   * Any further increase in AOA
   * Reduction in power
 * Stall warning horn may sound during slow flight, which occurs about 5-10 knots above the stall in all conditions
-
 * Power and back pressure necessary to prevent stall when in a bank in slow flight
 * Increase in bank increases stall speed
 * Use shallow banks; only around 15°, no more than 30° when under 1000 feet AGL or in the traffic pattern
@@ -377,7 +374,7 @@ Note: airplanes configured differently from C172/C152 may require
   * Main seat support brackets
   * Engine adjustments to allow use of mogas
   * Reparing landing gear struts
-  * Reparing skin
+  * Repairing skin
 * Preventative maintenance must be logged in maintenance records for aircraft
   * Description, date, grade of pilot certificate, pilot certificate number, signed
 * Airplane must be noted in logbook as acceptable to return to service

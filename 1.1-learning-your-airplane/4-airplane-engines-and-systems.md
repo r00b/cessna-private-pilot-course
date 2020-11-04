@@ -5,6 +5,7 @@
     - [How the Engine Works](#how-the-engine-works)
       - [Main parts of the engine](#main-parts-of-the-engine)
       - [Four-stroke](#four-stroke)
+      - [Fuel](#fuel)
       - [Engine temperature](#engine-temperature)
     - [How the Engine Gets Air and Fuel](#how-the-engine-gets-air-and-fuel)
       - [Carburetor Icing](#carburetor-icing)
@@ -12,6 +13,9 @@
     - [How Magnetos Work](#how-magnetos-work)
       - [Magneto](#magneto)
     - [Detonation and Preignition](#detonation-and-preignition)
+      - [Detonation](#detonation)
+      - [Preignition](#preignition)
+      - [Cooling the engine](#cooling-the-engine)
     - [How the Propeller Works](#how-the-propeller-works)
       - [Fixed-Pitch Propellers](#fixed-pitch-propellers)
       - [Adjustable-Pitch Propellers](#adjustable-pitch-propellers)
@@ -22,13 +26,14 @@
       - [Fuel pumps](#fuel-pumps)
       - [Oil and hydraulic systems](#oil-and-hydraulic-systems)
     - [The Electrical System](#the-electrical-system)
+      - [Components](#components)
     - [The Environmental System](#the-environmental-system)
 
 ## I. Engine and Propeller
 
 ### How the Engine Works
 * Airplane engine and propeller are the powerplant
-* Reciprocating engines--back-and-forth movement of the pistons
+* Reciprocating engines - back-and-forth movement of the pistons
   * Radial, in-line, v-type, or opposed cylinders
   * Liquid or air cooled
   * Cessna 172 has horizontally opposed cylinders and is air cooled
@@ -41,7 +46,6 @@
   * Crankshaft is connected to the piston through the connecting rod
 * Accessory housing
   * Contains the magnetos
-
 * Engine and propeller are direct drive
 
 #### Four-stroke
@@ -54,9 +58,10 @@
 * Exhaust
   * Piston driven up and pushes out remnant gases from combustion
 
+#### Fuel
 * Desired fuel-to-air ratio by weight is 15 parts air to 1 part avgas (15:1)
 * Engine will not burn fuel properly and run smoothly if mixture is too lean or rich
-* As you gain altitude, air is less dense--less molecules per unit volume of air
+* As you gain altitude, air is less dense -less molecules per unit volume of air
   * Therefore less weight
   * Engine draws air based on volume but needs the mixture to be correct by weight
   * Amount of fuel must be reduced to compensate for thinner air to get the same 15:1 mixture
@@ -87,8 +92,8 @@
 ### How the Engine Gets Air and Fuel
 * Carbuertor mixes fuel and air
 * Fuel-injection system injects fuel into air just before entry into each cylinder
-* Air enters via inlet and filter to carburetor, passes through venturi, speeds up/causing lo pressure, which pulls fuel out of opening from float chamber into the venturi
-* Fuel mixes with air, controlled via butterfly throttle valve, and is then ducted to teh cylinders through manifold tubing
+* Air enters via inlet and filter to carburetor, passes through venturi, speeds up/causing low pressure, which pulls fuel out of opening from float chamber into the venturi
+* Fuel mixes with air, controlled via butterfly throttle valve, and is then ducted to the cylinders through manifold tubing
 
 #### Carburetor Icing
 * Carb icing is a concern due to lower temperature caused by fuel vaporization and decreased pressure in the venturi
@@ -102,12 +107,12 @@
 * Indications of carb icing
   * Loss of RPM as ice blocks airflow
   * Loss of manifold pressure (constant speed prop) since propeller governer keeps engine RPM constant
-* Carb heat should be used at reduce power settings (follow POH)
+* Carb heat should be used at reduced power settings (follow POH)
 * Exhaust system will cool quickly in event of ice-caused shutdown, might not be able to melt ice
 * Carb heat ducts air around exhaust muffler and into carburetor
-  * Melting ice causes loss of RPM and engine roughness for about 30 sec-several minutes
+  * Melting ice causes loss of RPM and engine roughness for between 30 seconds and several minutes
   * RPM will gradually increase
-* Carb heat in normal conditions cause RPM since warmer air is less dense (less power output, unfavorable fuel-air mixture ratio)
+* Carb heat in normal conditions cause loss of RPM since warmer air is less dense (less power output, unfavorable fuel-air mixture ratio)
 * Never use carb heat when full power is required
 
 #### Fuel-Injected engines
@@ -133,7 +138,7 @@
 ### How Magnetos Work
 * Two magnetos, one left and one right
 * Two sets of ignition wires, upper and lower
-* Two spark plugs per cylinder, upper an dlower
+* Two spark plugs per cylinder, upper and lower
 * Ignition switch
 * Duplication allows for redundancy and engine performance from firing two spark plugs per cylinder
 
@@ -143,13 +148,12 @@
 * Uses permanent magnets that generate an electrical current independent of the aircraft's electrical system
   * Connected directly to the engine, so its mechanism moves whenever the propeller moves
 * Provides electricity for the spark plugs to ignite fuel/air mixture
-
 * Magneto is made up of bundle of wires coiled around a metal bar
 * Magnet spins around and next to the bundle whenever the engine is turning
 * Spinning magnet (soft iron) induces an electrical current in the wires
 * Current goes to spark plugs, which fire and burn gas, which turn engine, which turns magnetos
 * Ignition switch sends power to starter motor and turns magnetos on and off
-* OFF grounds both magnetos, so no electricity can flow to spark plugs, but flows through the primary leah to the ground (grounding)
+* OFF grounds both magnetos, so no electricity can flow to spark plugs, but flows through the primary lead to the ground (grounding)
 * L position shorts right magneto and vice versa
 * Checking the magnetos
   * Increase power to setting in checklist (usually 1700-1800 RPM)
@@ -164,7 +168,7 @@
   * Briefly to go OFF then back to BOTH
   * If enegine does not quit momentarily, p-lead may be broken (meaning engine could start even at OFF)
     * Hot mag/hot prop
-    * Report immediately--this is a big danger
+    * Report immediately - this is a big danger
 * Never leave keys in aircraft ignition
 * Place them on the dash
 
@@ -173,22 +177,22 @@
 * High engine temps come from lack of air flow, high power settings for long period of time, too lean a mixture, or poor oil quality
 * This can lead to loss of power, excessive oil burn, or detonation and preignition (often simultaneously)
 
-* Detonation
-  * Fuel/air mixture explodes in cylinder instead of burning smoothly
-  * Causes excessive temperature and pressure leading to overheating, rougness, or loss of power, in addition to cylinder/piston damage
-  * Can be caused by lower fuel grades (not 100 or 100LL for C172)
-  * Can be caused by running at high power with too lean a mixture
-  * Can be caused by extended ground operations where cylinder cooling is reduced
+#### Detonation
+* Fuel/air mixture explodes in cylinder instead of burning smoothly
+* Causes excessive temperature and pressure leading to overheating, roughness, or loss of power, in addition to cylinder/piston damage
+* Can be caused by lower fuel grades (not 100 or 100LL for C172)
+* Can be caused by running at high power with too lean a mixture
+* Can be caused by extended ground operations where cylinder cooling is reduced
 
-* Preignition
-  * Fuel/air mixture in the cylinder ignites too soon
-  * Caused by hot spots on the piston, cylinder, and valve that ignotes fuel/air mixture before spark plug fires
-  * Causes loss of power
+#### Preignition
+* Fuel/air mixture in the cylinder ignites too soon
+* Caused by hot spots on the piston, cylinder, and valve that ignites fuel/air mixture before spark plug fires
+* Causes loss of power
 
-* Cooling the engine
-  * Reduce AOA to increase airspeed and airflow into cowling
-  * Reduce power to decrease engine heat
-  * Enrich mixture to allow excess fuel to cool the cylinders
+#### Cooling the engine
+* Reduce AOA to increase airspeed and airflow into cowling
+* Reduce power to decrease engine heat
+* Enrich mixture to allow excess fuel to cool the cylinders
 * Don't forget to monitor engine temperature gauges!
 
 ### How the Propeller Works
@@ -211,13 +215,10 @@
 * Most common is constant-speed propeller (blue knob)
 * You set desired RPM with propeller control knob
   * Governor adjusts propeller blade angle to keep RPM constant (i.e., constant-speed propeller)
-
 * Pushing the nose over...
   * ...in an aircraft with a fixed-pitch propeller will increase RPM
   * ...in an aircraft with a constant-speed propeller, governor will detect increase in RPM and adjust propeller blade angle to maintain RPM (in this case, will increase blade angle and slow prop back to set RPM)
-
-
-* Throttle controls engine manifold pressure as indicated in manifold pressure gauge by controrlling amount of fuel/air mixture entering engine
+* Throttle controls engine manifold pressure as indicated in manifold pressure gauge by controlling amount of fuel/air mixture entering engine
 * Acceptable manifold pressure (throttle) settings and RPM (prop) combinations are shown in POH
 * Rules of thumb
   * Increasing power, move the prop forward first and then the throttle forward
@@ -267,13 +268,11 @@
 * Auxiliary electric fuel pump is used for starting engine, purging vapor from fuel-injection lines, and emergencies (when engine-driven pump fails)
   * Controlled via combined on/off switch and circuit breaker
   * Can hear auxiliary electric fuel pump running
-
 * Fuel shutoff valve
   * Cuts fuel flow to engine in emergencies
   * Labeled red knob in cockpit
   * Used to prevent fire from starting or continuing
   * **Ensure it is pushed in fully before takeoff**
-
 * Fuel gauges
   * Only required to read accurately at zero (when tanks are empty)
   * Always visually verify fuel by checking fuel level inside tank using bottom of filler tab or dipstick
@@ -284,7 +283,6 @@
 * Oil protects engine's internal parts and helps to cool the engine by carrying heat to oil cooler
 * Ensure there is adequate oil pressure
 * Need 5 quarts of oil in C172 for short flights (8 for extended flights)
-
 * Single-disc, hydraulically-actuated brake on each main landing gear is connected via hydraulic line to each rudder pedal
 * Hydraulic fluid is red
   * When there is a hydraulic leak, brakes feel soft or spongy, and pedal travel increases
@@ -298,6 +296,7 @@
   * Master switch
   * Circuit breakers
 
+#### Components
 * Alternator
   * Provides electrical power to airplane and charges battery off of engine
 * Battery
@@ -323,4 +322,4 @@
 * Exhaust leak
   * Carbon monoxide poisoning is possible
   * May not be detectable
-  * CO detector
+  * Check CO detector

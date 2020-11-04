@@ -31,7 +31,9 @@
       - [Turns](#turns)
         - [Adverse yaw](#adverse-yaw)
       - [Climbs](#climbs)
+      - [At desired altitude...](#at-desired-altitude)
       - [Descents](#descents)
+      - [At desired altitude...](#at-desired-altitude-1)
     - [After the Flight](#after-the-flight)
       - [Pushing the aircraft](#pushing-the-aircraft)
 
@@ -47,7 +49,6 @@
 * The vertical stabilizer is **vertical** itself; doesn't stabilize the airplane *vertically*
 * Same for horizontal stabilizer
 
-
 ### The Airplane's Flight Controls
 
 #### Ailerons
@@ -62,11 +63,9 @@
 #### Throttle
 * Attached to engine via cable; pushing **IN** opens throttle and increases power, pulling **OUT** closes throttle and decreases power
 
-
 ## II. Getting Ready for Flight
 
 ### Ready for Flight
-
 * **IMSAFE** checklist for physical and mental readiness
 
 **I**llness
@@ -94,18 +93,14 @@
 
 ##### Pressure
 * Standard atmospheric pressure is 29.92 in Hg
-* Above standard -> high pressure; below standard -> low pressure
-
+* Above standard &#8594; high pressure; below standard &#8594; low pressure
 * Visual Meteorological Conditions (VMC) is defined as having both a cloud ceiling higher than 3,000 feet AGL and visibility greater than 5 statue miles
 * VMC with winds less than 15 knots is best for student pilots
-
 
 #### Weight and Balance
 * Important to compute so you do not exceed maximum weight for aircraft type and can takeoff/land safely
 
-
 ### Safe Habits Around Airplanes
-
 * Look for beacon light to signal that a propeller is active
 * **When moving the propeller, ensure ignition switch is OFF, key is out of ignition and in plain site, mixture controle is IDLE CUT OFF, and throttle is closed; move propeller with flat hand rather than wrapping around the blade; it is possible to start an engine by moving the propeller!**
 * Clear visually and yell clear prop before starting engine
@@ -122,19 +117,22 @@
 * Throttle opened about 1/4 inch
 * Red mixture control knob
   * Adjusts fuel/air mixture
-  * Push forward --> richen the mixture; all the way forward is full rich
-  * Pull back --> lean the mexture; all the way back is idle cutoff
+  * Push forward &#8594; richen the mixture; all the way forward is full rich
+  * Pull back &#8594; lean the mexture; all the way back is idle cutoff
   * Lock button prevents rapid/large/inadvertent movements
   * Rotate knob for vernier adjustment; clockwise is rich, counter-clockwise is lean
   * Pulled back to idle cutoff to begin engine start, pushed forward as engine catches for **fuel injected engines**
   * Full rich for engine start for engines with **carburetors**
-  * General leaning --> pull 1 inch back
-  * Shutdown --> Pull all the way back
+  * General leaning &#8594; pull 1 inch back
+  * Shutdown &#8594; Pull all the way back
 * Master switch controls electrical power from main battery (not engine ignition)
 * Ignition switch ignites engine
+* Before starting
+  * Ensure parking brake set
+  * Turn on strobes/beacon
+  * Shout "CLEAR PROP"
 * If no oil pressure after starting engine, shut down the engine to avoid damage
-* Follow checklist to start engine; idle at 1000 RPM after start; [see this page](https://cessnaflighttraining.kingschools.com/CCF/Lesson/Page?lessonId=10008&page=6) for abbreviated checklist
-
+* Follow checklist to start engine; idle at 1000 RPM after start
 
 ## III. Controlling the Airplane's Motion
 
@@ -167,7 +165,7 @@
 * Get clearance for takeoff
 * Or when untowered, state intentions over Common Traffic Advisory Frequency (CTAF)
 * Lineup and wait: taxi on the runway onto the centerline, but HOLD for takeoff clearance
-* Look to make sure nobody in on approach, and verbalize "clear final"
+* Look to make sure nobody is on approach, and verbalize "clear final"
 
 #### Takeoff
 * Taxi onto runway, line up, straighten wheel, come to complete stop
@@ -176,9 +174,8 @@
 * Briefly check engine instruments (especially oil pressure) for green; proper RPM
 * **ANNUNCIATE:**
   * "Takeoff" on application of full throttle
-  * "Gauages green" after checking engine gauges
+  * "Gauges green" after checking engine gauges
   * "Airspeed alive" at first airspeed indication
-
 * Look about halfway down the runway to stay straight with slight rudder input
 * Airplane may tend to veer left; apply larger amount of right rudder early in takeoff
 * Gently pull back on yoke and let airplane fly itself off the runway
@@ -186,10 +183,8 @@
 * V<sub>x</sub>: *best angle of climb, at 62 knots* to reach highest altitude in shortest distance
 and
 * V<sub>y</sub>: *best rate of climb, at 74 knots* to reach highest altitude in shortest time
-* See [this page](https://cessnaflighttraining.kingschools.com/CCF/Lesson/Page?lessonId=10011&page=9)
 * Right rudder common to compensate for left-turning tendency
-* Look back and maintain centerline, especially because of parallel runways
-
+* Look back and maintain centerline, especially in case there are parallel runways
 
 #### After Takeoff
 * After-takeoff checklist at 1000 AGL
@@ -206,16 +201,15 @@ and
 * Reduce power to desired RPM (2200-2300)
 * Adjust trim
 * Lean the mixture
-
-* **A**ltitude/Airspeed
+* APT
+  * **A**ltitude/Airspeed
   * Adjust altitude for proper airspeed
-* **P**ower
+  * **P**ower
   * Set power as desired
-* **T**rim
-
+  * **T**rim
 * Pick point on horizon and head toward it
 * Keep wings level on either side through the window
-* Small corrections--use power to help you get back to where you want your altitude to be
+* Small corrections - use power to help you get back to where you want your altitude to be
 
 ### Turns, Climbs, and Descents
 
@@ -227,7 +221,7 @@ and
 
 #### Turns
 * Raise wing that you will be turning into first to check blind spot
-* 30 degreees of bank
+* 30 degrees of bank
 * Look for traffic above, below, and all around
 * Clear via two 90-degree turns or one 180-degree turn
 * Announce intentions on 122.75
@@ -250,7 +244,8 @@ and
 * Full throttle forward
 * Pitch up to climb altitude (about 10 degrees); use sight picture; *glance* at flight display
 * Trim to relieve control pressures
-At desired altitude...
+
+#### At desired altitude...
 * Ease forward on yoke
 * APT
   * Wait for airspeed to rebuild (around 90 knots)
@@ -261,7 +256,8 @@ At desired altitude...
 * Pull throttle to 1500 RPM or idle
 * **Let** the nose pitch down (about 5°); use sight picture; *glance* at flight display
 * Trim to relieve control pressures
-At desired altitude...
+
+#### At desired altitude...
 * Ease back on yoke
 * Pitch to level flight attitude
 * Set cruise power (2200-2300 RPM)
@@ -279,7 +275,6 @@ At desired altitude...
 * Can push and pull on blades of propeller close to the hub
 * Chock wheels, protective covers, all switches off
 * Customary to leave airplane with parking brake off in case of towing
-
 * Hobbs meter: length of time battery master is on and oil pressure exceeds 20 PSI
 * Tachometer: total number of revolutions of the engine and converts them to hours (needed for maintenance tracking)
 * If you do not fill fuel tanks, you run the risk of water condensation in the fuel tanks

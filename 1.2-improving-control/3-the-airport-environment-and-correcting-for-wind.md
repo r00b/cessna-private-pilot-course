@@ -80,7 +80,7 @@
 ![Wind taxi controls](images/wind-taxi-2.png)
 
 * Beware of buildings - they can funnel winds (especially between buildings) and make wind turbulent and harder to correct for
-* *Mechanical turbulence*: turbulence caused when downwind of hangars and other buildings caused by physical disturbance of the wind
+* *Mechanical turbulence*: turbulence caused when operating downwind of hangars and other buildings that create a physical disturbance of the wind
 * Also watch out for large airplanes/helicopters and wash/wake turbulence
 
 ## II. Flying Around Airports
@@ -92,7 +92,7 @@
   * Upwind
     * Departure leg
     * Up into the wind
-    * Turn into crosswin leg when 300 feet below traffic pattern altitude
+    * Turn into crosswind leg when 300 feet below traffic pattern altitude
   * Crosswind
     * Across the wind
     * Before turning onto downwind leg, be sure to check for traffic
@@ -128,11 +128,11 @@
 
 ![Traffic pattern indicator](images/pattern-indicator.png)
 
-* If no control tower, no AWOS/ASOS, and no answer on UNICOM, overfly airport 500' above TPA to check wind sock, indicator, and determine best runway to use
+* If no control tower, no AWOS/ASOS, and no answer on UNICOM, overfly airport 500 feet above TPA to check wind sock, indicator, and determine best runway to use
 
 ### Entering and Departing the Traffic Pattern
-* When deparing, either continue straight out or make 45-degree turn in direction of crosswind leg after leaving the runway and have reached pattern altitude
-* Look for special departure procedures at airport (may be because of noise abatement, obstructions, etc) on signs around airport or on Chart Supplement
+* When departing, either continue straight out or make 45-degree turn in direction of crosswind leg after leaving the runway and have reached pattern altitude
+* Look for special departure procedures at airport (may be because of noise abatement, obstructions, etc.) on signs around airport or on Chart Supplement
 * Enter traffic pattern on 45 angle to downwind at about the midfield point at traffic pattern altitude (1000 feet AGL unless otherwise noted)
 
 ![Entering the pattern](images/entering-pattern.png)
@@ -180,7 +180,7 @@
 * See and avoid
   * Continually look out for other traffic; constantly be looking for traffic
   * Be aware of blind spot in high-wing aircraft; raise wing and check for traffic before turning
-  * When turning final, always make visually ensure there are no aircraft on straight-in final who may not be talking on frequency
+  * When turning final, always visually ensure there are no aircraft on straight-in final who may not be talking on frequency
   * Verbalize "*Clear Final*" after visually checking final approach
   * On climb-out from runway, make shallow S-turns for better view of traffic that may be ahead
     * Lower nose every 500 feet to ensure path in front is clear

@@ -9,10 +9,10 @@
 * **H**azards
   * i.e. wind causing issues with directional control
 * **O**perational changes
-  * i.e. taking off with aileron full right, gradually decreasing; i.e. delay lit-off to have better control
+  * i.e. taking off with aileron full right, gradually decreasing; i.e. delay lift-off to have better control
 * **R**unway required vs. available
   * i.e. required today is 850 feet ground roll, 1250 feet takeoff distance, with 3400 feet runway available
-* **R**return Procedure
+* **R**eturn Procedure
   * i.e. if we have problems after takeoff I will enter downwind and return to this airport
 * **D**eparture plans
   * i.e. runway heading until above pattern altitude and then climb to 3000 feet MSL on heading of 030
@@ -43,11 +43,11 @@
   * Use rudder to keep nose straight
 * Significant crosswind
   * Keep main wheels on ground slightly longer than normal takeoff
-  * Both main wheels should lift off at same time, but ok to lift downwind wheel to prevent side-skipping
+  * Both main wheels should lift off at same time, but it's okay to lift downwind wheel to prevent side-skipping
 * Compensate for additional left-turning tendency with more right rudder
 * Hints
   * Keep toes off brakes by keeping heels on floor and balls of feet on bottom of rudder pedals
-  * Maintain full power to enhance performance my providing more fuel (and thus cooling) to engine until clear of obstacles/high enough to level-off
+  * Maintain full power to enhance performance by providing more fuel (and thus cooling) to engine until clear of obstacles/high enough to level-off
 * After takeoff
   * Correcting for wind, looking for traffic, retracting flaps, lowering nose every 500 feet to get better look for traffic ahead
   * Climb checklist at 1000 feet AGL, transition to cruise climb airspeed/shallower climb
@@ -56,7 +56,8 @@
 6 phases:
 * Downwind, abeam the point of intended landing
 * Base leg
-* Roundout (lare)
+* Final approach
+* Roundout (flare)
 * Touchdown
 * After-landing roll
 
@@ -74,7 +75,7 @@
   * Strong wind &#8594; base leg closer to runway
   * Light wind &#8594; base leg further from runway
 * Typically will have crosswind, should establish crab to correct for drift
-* Flap setting and rate of descent will be on wind/distance from runway threshold
+* Flap setting and rate of descent will depend on wind/distance from runway threshold
 * Airspeed on base should be approximately 1.4 V<sub>SO</sub> (75 knots in C172)
 * Check final for traffic
 
@@ -87,7 +88,7 @@
 * Airpseed should be about 1.3 V<sub>SO</sub> (65 knots in C172)
 * Touch down in first third of runway
 * Maintain proper angle of descent/airspeed by coordinating power and pitch
-* Stablized final approach &#8594; half-mile out you have proper angle of descent, altitude, airspeed, and power setting
+* Stablized final approach is established when, about a half-mile out, you have proper angle of descent, altitude, airspeed, and power setting
 * Keep touchdown aiming point at same position on windscreen
   * Moves down on windscreen &#8594; pitch down and reduce power
   * Moves up on windscreen &#8594; pitch up and increase power
@@ -101,7 +102,7 @@
 * .25 model &#8594; 75 feet
 
 #### Roundout (flare)
-* Start 10 to 20 feet from ground by easing back pressure
+* Start 10 to 20 feet from ground by easing in back pressure
 * Gradual increase in pitch, AOA, and decrease in airspeed
 * Keep lined up with centerline; use aileron to move towards centerline and rudder to keep aircraft body parallel with runway
 * Visual focus same distance as car
@@ -114,7 +115,7 @@
 * Nose-high/tail-low attitude
 * On both main wheels, except crosswind where upwind main wheel will touch first
 * At or near V<sub>SO</sub>
-* On the centerline wiht longitudinal axis parallel to runway
+* On the centerline with longitudinal axis parallel to runway
 * With no sideways drift (keep aileron correction after touchdown and increase during landing roll)
 
 #### After-landing roll
@@ -126,7 +127,6 @@
 * Apply brake pressure evenly as necessary
 * Exit runway when slow enough to safely make turn onto taxiway
 * Tell controller "unable" if unable to safely make taxiway
-
 * Runway slope may create illusions of being too high or low
 * Runway width may also create same illusions
 
@@ -155,7 +155,7 @@
   * Set heading on final to correct for wind drift
   * Physically easier for pilot to maintain during final approach
   * More comfortable for passengers because it is coordinated
-  * Crab must be remove before touchdown to keep airplane from landing sideways and from damaging landing gear
+  * Crab must be removed before touchdown to keep airplane from landing sideways and from damaging landing gear
 * Wing-low method
   * Also known as a *sideslip*
   * Is uncoordinated, and therefore uncomfortable for passengers
@@ -179,7 +179,7 @@
   * Failure during rollout to apply appropriate flight control inputs, maintain directional control, and increase aileron deflection into the wind as airplane slows down
 
 ### Visual Glide Path Indicators
-* Visual Approach Slow Indicator (VASI)
+* Visual Approach Slope Indicator (VASI)
 * Uses 2 or 3 light bars: near, middle (if used), and far
   * Usually a 3° angle but may be as high as 4.5°
 * Projects white light in upper part of beam and red light in lower
@@ -207,12 +207,11 @@
   * Lower below the glide path, lower the pulsations
 * Do not confuse without other light sources
 * Daytime range up to 4 miles, nighttime up to 10 miles
-
 * Tri-color VASI: rarest
 * Single light that projects three colors
-* Amber: too hight
+* Amber: too high
 * Green: on glide path
-* Red: too lower
+* Red: too low
 * Daytime range of 1/2 to 1 mile, nighttime up to 5 miles
 * May briefly appear amber when transitioning from green to red
 
@@ -229,7 +228,7 @@
 * Do, observe, adjust
 
 ### Going Around
-* When to reject landing
+* Reject a landing when:
   * Approach is not stabilized
   * Speed, pitch attitude, and/or glide path are varying unacceptably
   * Approach is unsafe
@@ -240,11 +239,12 @@
   * Wind shear or wake turbulence
 * Normal maneuver; not an emergency maneuver
 * The earlier you recognize a rejected landing, the safer it will be
-* Procedures
+
+#### Go-Around Procedures
 * Power, Altitude, Configuration
 * **Power**: apply full power smoothly and without hesitation when you decide to go around
   * Right rudder to keep nose straight
-  * Attitude is critical when close to down
+  * Attitude is critical when close to ground
   * After adding power, will need to keep nose from pitching up prematurely
   * May require forward pressure on yoke; fight the urge to pull nose up
   * Build up sufficient airspeed before trying to gain altitude or turn
@@ -263,14 +263,12 @@
 ### Stall Theory
 * Lift is affected by changes in airspeed
 * Increasing airspeed increases lift and vice versa
-
 * Stall occurs when airflow is disrupted over airplane's wing, resulting in a loss of lift
-* Occurs when airplane exceeds critical angle of attack
-  * (AOA is angle between chord line and relative wind)
+* Occurs when airplane exceeds critical angle of attack (angle between chord line and relative wind)
   * Air can no longer conform to top of wing when exceeding critical angle of attack
   * Backfills, burbles, and eddies, destroys lift, and stalls the wing
-  * An airfoil always stall at the same critical AOA regardless of airspeed, weight, load factor, or density attitude
-* Most small airplanes have critical AOA of between 16 and 20 degrees (16 for C172)
+  * An airfoil always stalls at the same critical AOA regardless of airspeed, weight, load factor, or density altitude
+* Most small airplanes have critical AOA of between 16 and 20 degrees (16° for C172)
 * Easy to exceed critical AOA while flying slow, fast, or while turning
   * Can stall at any airspeed or attitude; not necessarily flying slow or in nose-high condition
 
@@ -290,9 +288,9 @@
 
 ### Mastering the Stall
 * Airplane is designed to stall at wing root first and progress outward towards wingtips
-* Allows ailerons to remaind effective during a stall which provides more controllability
+* Allows ailerons to remain effective during a stall which provides more controllability
 * When stall is about to occur
-  * Wind notice decrease in wind noise
+  * Will notice decrease in wind noise
   * Mushy flight controls
   * Stall warning horn (5-10 knots before stall)
   * Airplane will buffet/shake as airflow becomes turbulent
@@ -313,7 +311,7 @@
 
 ### Stall Situations
 * Power-on stalls
-  * Can be performed using no or 10°
+  * Can be performed using no or 10° flaps
     * Stall with flaps will occur at a lower speed
   * Using full or partial power
   * Wait until at takeoff speed or lower to initiate application of power and pitch

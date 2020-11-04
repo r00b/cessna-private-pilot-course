@@ -56,7 +56,7 @@
 * **E**stimate the need to react to the change
 * **C**hoose a desirable outcome
 * **I**dentify actions to control the change
-* **D**o take the encessary actions
+* **D**o take the necessary actions
 * **E**valuate the effect of the actions
 * Many factors affect decision making
 
@@ -75,7 +75,6 @@
 * **E**xternal pressures
   * Suitable outs to cancel trip
   * Won't feel in a hurry or pressure to continue at any point
-
 * Many pilots have goal-oriented behavior--hate to give up on a goal, pushing to press on and ignore mounting risks
   * Manage this in advance
   * Always take overnight bag
@@ -99,7 +98,6 @@
   * Deal with things as they really are, not as you planned them to be
 * **E**xternal pressures
   * Are pressures influencing you to continue when you shouldn't
-
 * GPS as backup instead of primary navigation (in case you lose GPS)
 * Always have sectional or terminal area chart, keep it open
 * If you get lost: aviate, navigate, communicate
@@ -194,7 +192,7 @@
   * Low air pressure means less oxygen reaches lungs
 * Less oxygen in blood
 * Affects brain first, then eyes
-* Effects are subtle, vary from one individual toa nother
+* Effects are subtle, vary from one individual to another
 * Symptoms include blue-colored fingernails, lips, and ears
 * Decreased skill capabilities
 * Overcome by using supplemented oxygen: above 10,000 feet MSL during day and 5,000 feet MSL at night
@@ -213,7 +211,6 @@
 * If it cannot escape, will build pressure and cause pain
 * As you descend, you will need to equalize similar to SCUBA
 * Swallow or blow through nostrils
-
 * Ear block
   * Occurs when you have respiratory infection (cold, ear infection, sore throat) because congestion around Eustachian tubes makes equalization difficult
   * Causes loss of hearing or ruptered ear drum
@@ -228,7 +225,7 @@
 * CO molecules attach to hemoglobin in blood, displacing oxygen molecules, causing hypoxia
 * May enter cabin when using cabin heat, may be evidenced by exhaust smell in cockpit
 * Symptoms
-  * Difficult concentrating
+  * Difficulty concentrating
   * Headache
   * Blurred vision
   * Dizziness

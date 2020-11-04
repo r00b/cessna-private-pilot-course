@@ -21,8 +21,7 @@
 ## I. Using Your Airport
 
 ### Coordinated Universal Time
-* Time at Royal Observatory, Greenwich, England
-* 0100, 1300, etc.
+* Time at Royal Observatory, Greenwich, England (0100, 1300, etc.)
 * Does not adjust for DST
 * Referred to as Zulu time
 * Necessary to frequently convert to and from Zulu
@@ -59,7 +58,7 @@
 
 * Centerline is marked with uniformly spaced white stripes (dashed line)
 * Side stripes are solid white
-* Runway hold position markings indicat where to stop and wait for clearance; four yellow lines, two solid and two dashed
+* Runway hold position markings indicate where to stop and wait for clearance; four yellow lines, two solid and two dashed
 * Solid lines on side where aircraft is to hold
 
 ![Hold](images/hold.png)
@@ -159,12 +158,12 @@
 * See CTA for notes on G1000
 
 ### Safety Equipment
-* Transponder and ADS0B out always transmitting location
+* Transponder and ADS-B out always transmitting location
 * Emergency locator transmitter (ELT)
 
 #### Transponder
-* Enhances radar rerturrn on ATC screen
-* Require for many airspace classes
+* Enhances radar return on ATC screen
+* Required for many airspace classes
 * Receives an interrogation signal from ground radar unit and replies back with squawk
 * Provides position and altitude; ground radar unit can determine track
 * Has unique assigned transponder code if assigned with registration number
@@ -230,8 +229,8 @@
   * Updated typically every hour around 50 minutes past the hour
   * Updates identified by sequential alphabetical codes starting each day at Alpha
   * Reduce frequency congestion, alert controllers what information you have
-* Clearance deelivery
-  * Releaves congestion on Ground Control
+* Clearance delivery
+  * Relieves congestion on Ground Control
   * Provides pilot with basic instructions necessary to depart area after takeoff and avoid collisions/noise-sensitive areas
 * Ground control
   * Directs traffic on ground at busy airports (including ground vehicles)
@@ -243,22 +242,22 @@
   * Controls traffic within about 5 miles (sometimes more) of airport
   * Separates traffic landing and taking off on runway
 * Important clearances
-  * Hold short: do not proceed onto runway
-  * Line up and wait: taxi onto departure runway lined up and stop without taking off
-  * Cleared for takeoff: authorization to depart
-  * Cleared to land: authorization to land
-  * Cleared for touch-and-go: authorization to land followed by immediate takeoff
-  * Cleared for stop-and-go: authorization to land, come to a complete stop, and make an immediate takeoff on the remaining runway
-  * Cleared for the option: authorization to make, at pilot discretion, a missed approach, touch-and-go, stop-and-go, or full stop landing
-  * Go around: abandon the landing approach, more instructions to follow
-  * Continue: continue taxi, continue approach, continue descent, etc.
+  * **Hold short**: do not proceed onto runway
+  * **Line up and wait**: taxi onto departure runway lined up and stop without taking off
+  * **Cleared for takeoff**: authorization to depart
+  * **Cleared to land**: authorization to land
+  * **Cleared for touch-and-go**: authorization to land followed by immediate takeoff
+  * **Cleared for stop-and-go**: authorization to land, come to a complete stop, and make an immediate takeoff on the remaining runway
+  * C**leared for the option**: authorization to make, at pilot discretion, a missed approach, touch-and-go, stop-and-go, or full stop landing
+  * **Go around**: abandon the landing approach, more instructions to follow
+  * **Continue**: continue taxi, continue approach, continue descent, etc.
 * Approach and Departure control
   * Sequence traffic to and from the airport
   * Usually use radar
   * Control traffic outside airspace limits of control tower up to 30 miles from airport
   * You should not comply with instruction or clearance if you are unable to safely do so
     * Say "unable" and maybe suggest alternative
-* Air route traffic control center (ARTCC), called "Center"
+* Air Route Traffic Control Center (ARTCC), called "Center"
   * Provide separation and radar service on airways between major airports (more than 30 miles from airport)
   * For aircraft on instrumne flight plans (optionally by VFR aircraft)
 * VFR may request flight following by center/approach
@@ -276,7 +275,7 @@
   * Where you are: "Two zero miles southwest at eight thousand, five hundred"
   * What you want: "Inbound for landing"
   * What you know: "Information Bravo"
-* ATC functions: address clearance delivery, ground control, tower, departure control, etc
+* ATC functions: address clearance delivery, ground control, tower, departure control, etc.
 * Flight Service Stations (FSS): addressed as *Radio*
 * ATC may abbreviate call sign to last three characters; do not abbreviate your callsign until ATC does
 * [Memorize phonetic alphabet](https://quizlet.com/9566872/coast-guard-phonetic-alphabet-flash-cards/)
@@ -285,7 +284,7 @@
 
 ### Lost Communications
 * Inability to receive/transmit, audio panel failure
-* Indicated by not hearing trarnsmissions or not getting response (do not make repeated calls to ATC)
+* Indicated by not hearing transmissions or not getting response (do not make repeated calls to ATC)
 * Check volume, headset connections, volume on headset; activate Power/Volume/Squelch knob (listen for hissing on high volume)
 * Inability to transmit
   * No TX annunciator on display
@@ -313,11 +312,11 @@
   * Non-radio-equipped aircraft land at nontowered airports all the time
 * Landing at a towered airport
   * Squawk 7600
-  * Remain above our outside the airport Class D airspace
+  * Remain above or outside the airport's Class D airspace
   * Observe directions and flow of traffic
   * Join traffic pattern using 45-degree entry to downwind
   * Transmit intentions just in case
-  * Look for light gun signals from tower indicating whether nd when you can land
+  * Look for light gun signals from tower indicating whether and when you can land
     * Acknowledge signals by rocking wings in day or flashing landing light at night
     * Light gun signals are white, red, or green, and visible in daylight
     * Directed at a specific aircraft that tower believes has had a radio failure
