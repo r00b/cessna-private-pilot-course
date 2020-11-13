@@ -4,6 +4,7 @@ Important acronyms, roughly ranked in order of descending importance.
 
 - [Acronyms](#acronyms)
   - [Checklists](#checklists)
+    - [GUMPS](#gumps)
     - [IMSAFE](#imsafe)
       - [PAVE](#pave)
       - [CARE](#care)
@@ -18,6 +19,8 @@ Important acronyms, roughly ranked in order of descending importance.
     - [AOA](#aoa)
     - [TPA](#tpa)
     - [RP](#rp)
+    - [ETD](#etd)
+    - [ETE](#ete)
   - [Radio/Navigation](#radionavigation)
     - [SM](#sm)
     - [AGL](#agl)
@@ -35,6 +38,13 @@ Important acronyms, roughly ranked in order of descending importance.
     - [VMC](#vmc)
     - [AWOS](#awos)
     - [ASOS](#asos)
+    - [OAT](#oat)
+    - [ISA](#isa)
+    - [PA](#pa)
+    - [DA](#da)
+    - [PIREP](#pirep)
+    - [LLWAS](#llwas)
+    - [CAT](#cat)
   - [Aircraft](#aircraft)
     - [POH](#poh)
     - [AFM](#afm)
@@ -69,6 +79,13 @@ Important acronyms, roughly ranked in order of descending importance.
 
 ## Checklists
 
+### GUMPS
+* **G**as (tanks)
+* **U**ndercarriage
+* **M**ixture
+* **P**ower/**P**ropeller
+* **S**eatbelts/**S**witches
+
 ### IMSAFE
 Checking physical and mental readiness for a flight.
 * **I**llness
@@ -92,6 +109,7 @@ Checking readiness for a flight.
 * **E**xternal pressures
 
 ### NWRAFT
+91/103 regulation
 * **N**OTAMS
 * **W**eather
 * **R**unway lengths
@@ -149,6 +167,14 @@ Traffic Pattern Altitude (1000 feet AGL unless otherwise noted)
 ### RP
 Right Pattern
 
+### ETD
+Estimated Time of Departure
+
+### ETE
+Estimated Time En route
+
+### ETA
+Estimated Time of Arrival
 
 ## Radio/Navigation
 
@@ -201,6 +227,27 @@ Automated Weather Observation System
 ### ASOS
 Automated Surface Observation System
 
+### OAT
+Outside Air Temperature
+
+### ISA
+International Standard Atmosphere
+* 15°C at sea level, -2°C every 1,000 feet increase in altitude
+
+### PA
+Pressure Altitude
+
+### DA
+Density Altitude
+
+### PIREP
+Pilot Report
+
+### LLWAS
+Low-Level Wind Shear Alert System
+
+### CAT
+Clear Air Turbulence
 
 ## Aircraft
 
