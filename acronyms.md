@@ -249,6 +249,7 @@ Low-Level Wind Shear Alert System
 ### CAT
 Clear Air Turbulence
 
+
 ## Aircraft
 
 ### POH
@@ -284,6 +285,12 @@ Center of Lift
 
 ### ELT
 Emergency Locator Transmitter
+
+### TOLD
+Takeoff and Landing Data
+
+### FS
+Fuselage Station
 
 
 ## Airport
@@ -329,6 +336,8 @@ Pilot in Control
 * **D**o take the necessary actions
 * **E**valuate the effect of the actions
 
+### CYA
+Cover Your Ass
 
 ## FAA
 
