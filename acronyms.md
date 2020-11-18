@@ -21,6 +21,10 @@ Important acronyms, roughly ranked in order of descending importance.
     - [RP](#rp)
     - [ETD](#etd)
     - [ETE](#ete)
+    - [ETA](#eta)
+  - [Emergencies](#emergencies)
+    - [ABC](#abc)
+    - [FADD](#fadd)
   - [Radio/Navigation](#radionavigation)
     - [SM](#sm)
     - [AGL](#agl)
@@ -33,6 +37,8 @@ Important acronyms, roughly ranked in order of descending importance.
     - [VHF](#vhf)
     - [UHF](#uhf)
     - [CT](#ct)
+    - [MEF](#mef)
+    - [SAR](#sar)
     - [SARSAT](#sarsat)
   - [Weather](#weather)
     - [VMC](#vmc)
@@ -57,25 +63,33 @@ Important acronyms, roughly ranked in order of descending importance.
     - [CG](#cg)
     - [CL](#cl)
     - [ELT](#elt)
+    - [TOLD](#told)
+    - [FS](#fs)
   - [Airport](#airport)
     - [ATIS](#atis)
     - [FBO](#fbo)
     - [VASI](#vasi)
     - [PAPI](#papi)
     - [PVASI](#pvasi)
+    - [LAHSO](#lahso)
   - [Theory](#theory)
     - [ADM](#adm)
     - [SRM](#srm)
     - [CRM](#crm)
     - [PIC](#pic)
     - [DECIDE](#decide)
+    - [CYA](#cya)
   - [FAA](#faa)
     - [NOTAM](#notam)
+    - [WEF](#wef)
+    - [FDC](#fdc)
     - [AC](#ac)
     - [FSDO](#fsdo)
     - [FAR](#far)
+    - [AIM](#aim)
     - [CFR](#cfr)
     - [AD](#ad)
+    - [NAS](#nas)
 
 ## Checklists
 
@@ -176,6 +190,21 @@ Estimated Time En route
 ### ETA
 Estimated Time of Arrival
 
+
+## Emergencies
+
+### ABC
+* **A**ttitude/airspeed for best glide speed
+* **B**est field selected
+* **C**ockpit checks performed (floor to door)
+
+### FADD
+* **F**ly the airplane
+* **A**ssess the situation
+* **D**ecide what to do
+* **D**o it
+
+
 ## Radio/Navigation
 
 ### SM
@@ -210,6 +239,12 @@ Ultra High Frequency
 
 ### CT
 Control Tower (i.e. `CT - 118.2`)
+
+### MEF
+Maximum Elevation Figure
+
+### SAR
+Search and Rescue
 
 ### SARSAT
 International Search and Rescue Satellite system
@@ -310,6 +345,8 @@ Precision Approach Path Indicator (red/white dot lights)
 ### PVASI
 Pulsating VASI
 
+### LAHSO
+Land and Hold Short Operations
 
 ## Theory
 
@@ -344,6 +381,12 @@ Cover Your Ass
 ### NOTAM
 Notice to Airmen
 
+### WEF
+With Effect From
+
+### FDC
+Flight Data Center
+
 ### AC
 Advisory Circular
 
@@ -353,8 +396,14 @@ Flight Standards District Office
 ### FAR
 Federal Aviation Regulations
 
+### AIM
+Aeronautical Information Manual
+
 ### CFR
 Code of Federal Regulations
 
 ### AD
 Airworthiness Directive
+
+### NAS
+National Airspace System

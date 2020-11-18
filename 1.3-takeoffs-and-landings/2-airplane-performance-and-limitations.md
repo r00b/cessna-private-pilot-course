@@ -1,5 +1,33 @@
 # Airplane Performance and Limitations
 
+- [Airplane Performance and Limitations](#airplane-performance-and-limitations)
+  - [I. Predicting Performance](#i-predicting-performance)
+    - [Factors Affecting Performancee](#factors-affecting-performancee)
+      - [Air Density](#air-density)
+      - [Density Altitude Chart](#density-altitude-chart)
+    - [More Factors Affecting Performance](#more-factors-affecting-performance)
+      - [Formulas](#formulas)
+      - [Performance](#performance)
+    - [Performance Speeds and Runway Conditions](#performance-speeds-and-runway-conditions)
+      - [Takeoff and Climb Performance Speeds](#takeoff-and-climb-performance-speeds)
+    - [The POH](#the-poh)
+    - [Using Performance Charts](#using-performance-charts)
+      - [Short-Field Takeoff Computations](#short-field-takeoff-computations)
+      - [Time, Fuel, and Distance to Climb](#time-fuel-and-distance-to-climb)
+      - [Cruise Performance Computations](#cruise-performance-computations)
+      - [Short-Field Landing Computations](#short-field-landing-computations)
+      - [Remarks](#remarks)
+  - [II. Airplane Loading](#ii-airplane-loading)
+    - [Airplane Weight and Balance](#airplane-weight-and-balance)
+      - [Balance](#balance)
+    - [Methods of Weight and Balance Control](#methods-of-weight-and-balance-control)
+      - [Loading Arrangements chart](#loading-arrangements-chart)
+      - [Weight and Moment Tabulation table](#weight-and-moment-tabulation-table)
+      - [Airplane CG Location graph (Center of Gravity limits)](#airplane-cg-location-graph-center-of-gravity-limits)
+      - [A Load Moment/1000 graph (Loading Graph)](#a-load-moment1000-graph-loading-graph)
+      - [A Loaded Airplane Moment/1000 graph (Center of Gravity Moment Envelope)](#a-loaded-airplane-moment1000-graph-center-of-gravity-moment-envelope)
+      - [Ground school notes](#ground-school-notes)
+
 ## I. Predicting Performance
 
 ### Factors Affecting Performancee
@@ -247,3 +275,9 @@ Contains:
 * Provides aircraft loading *center of gravity envelope* inside a graph
 * Presents visual picture of acceptable weight and CG limits
 * Directly plot data from Weight & Moment tabulation to determine if aircraft is in acceptable limits of weight and balance
+
+#### Ground school notes
+* CG for C172 should be somewhere between 35 and 45
+* PA is standard altitude, which is indicated altitude corrected for nonstandard pressure
+* Standard temperature is 15C
+* 1 inch of altimeter setting is 1000 feet, therefore .50 altimeter setting is 500 feet
