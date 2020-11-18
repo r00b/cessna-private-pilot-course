@@ -32,5 +32,7 @@ Scenario 2: [Airplane Performance and Limitations](1.3-takeoffs-and-landings/2-a
 
 Scenario 3: [Learning to Land](1.3-takeoffs-and-landings/3-learning-to-land.md)
 
+Scenario 4: [Charts, Publications, Hazards, and Emergencies](1.3-takeoffs-and-landings/4-charts-publications-hazards-emergencies.md)
+
 # Other
 [Acronym Guide](acronyms.md)
