@@ -11,7 +11,8 @@ Important acronyms, roughly ranked in order of descending importance.
     - [NWRAFT](#nwraft)
     - [ARROW](#arrow)
     - [CHORRD](#chorrd)
-      - [5 Ps](#5-ps)
+    - [5 Ps](#5-ps)
+    - [PPM](#ppm)
   - [Flying](#flying)
     - [APT](#apt)
     - [TARE](#tare)
@@ -22,6 +23,9 @@ Important acronyms, roughly ranked in order of descending importance.
     - [ETD](#etd)
     - [ETE](#ete)
     - [ETA](#eta)
+    - [VFR](#vfr)
+    - [IFR](#ifr)
+    - [SVFR](#svfr)
   - [Emergencies](#emergencies)
     - [ABC](#abc)
     - [FADD](#fadd)
@@ -33,6 +37,7 @@ Important acronyms, roughly ranked in order of descending importance.
     - [UNICOM](#unicom)
     - [ATC](#atc)
     - [ARTCC](#artcc)
+    - [TRACON](#tracon)
     - [FSS](#fss)
     - [VHF](#vhf)
     - [UHF](#uhf)
@@ -40,8 +45,17 @@ Important acronyms, roughly ranked in order of descending importance.
     - [MEF](#mef)
     - [SAR](#sar)
     - [SARSAT](#sarsat)
+    - [TRA](#tra)
+    - [SUA](#sua)
+    - [NTAP](#ntap)
+    - [MOA](#moa)
+    - [MTR](#mtr)
+    - [TRSA](#trsa)
+    - [ONE](#one)
+    - [NMAC](#nmac)
   - [Weather](#weather)
     - [VMC](#vmc)
+    - [IMC](#imc)
     - [AWOS](#awos)
     - [ASOS](#asos)
     - [OAT](#oat)
@@ -72,6 +86,7 @@ Important acronyms, roughly ranked in order of descending importance.
     - [PAPI](#papi)
     - [PVASI](#pvasi)
     - [LAHSO](#lahso)
+    - [ALD](#ald)
   - [Theory](#theory)
     - [ADM](#adm)
     - [SRM](#srm)
@@ -80,6 +95,7 @@ Important acronyms, roughly ranked in order of descending importance.
     - [DECIDE](#decide)
     - [CYA](#cya)
   - [FAA](#faa)
+    - [NTSB](#ntsb)
     - [NOTAM](#notam)
     - [WEF](#wef)
     - [FDC](#fdc)
@@ -90,6 +106,7 @@ Important acronyms, roughly ranked in order of descending importance.
     - [CFR](#cfr)
     - [AD](#ad)
     - [NAS](#nas)
+    - [UAS](#uas)
 
 ## Checklists
 
@@ -146,12 +163,15 @@ Checking readiness for a flight.
 * **R**eturn procedure
 * **D**eparture plans
 
-#### 5 Ps
+### 5 Ps
 * Plan
 * Plane
 * Pilot
 * Passengers
 * Programming
+
+### PPM
+Pilot Certificate, Photo ID, Medical
 
 
 ## Flying
@@ -189,6 +209,15 @@ Estimated Time En route
 
 ### ETA
 Estimated Time of Arrival
+
+### VFR
+Visual Flight Rules
+
+### IFR
+Instrument Flight Rules
+
+### SVFR
+Special Visual Flight Rules
 
 
 ## Emergencies
@@ -228,6 +257,9 @@ Air Traffic Control
 ### ARTCC
 Air Route Traffic Control Center (Center)
 
+### TRACON
+Terminal Radar Approach Control
+
 ### FSS
 Flight Service Stations
 
@@ -249,12 +281,39 @@ Search and Rescue
 ### SARSAT
 International Search and Rescue Satellite system
 
+### TRA
+Temporary Restricted Areas
+
+### SUA
+FAA Special Use Airspace
+
+### NTAP
+Notices to Airmen Publication
+
+### MOA
+Military Operations Areas
+
+### MTR
+Military Training Route
+
+### TRSA
+Terminal Radar Service Area
+
+### ONE
+Odd, North, East
+
+### NMAC
+Near Midair Collision
+
 
 ## Weather
 
 ### VMC
 Visual Meteorological Conditions
 * Cloud ceiling higher than 3,000 feet AGL with visibility exceeding 5 statue miles
+
+### IMC
+Instrument Meterological Conditions
 
 ### AWOS
 Automated Weather Observation System
@@ -348,6 +407,9 @@ Pulsating VASI
 ### LAHSO
 Land and Hold Short Operations
 
+### ALD
+Available Landing Difference
+
 ## Theory
 
 ### ADM
@@ -377,6 +439,10 @@ Pilot in Control
 Cover Your Ass
 
 ## FAA
+Federal Aviation Association
+
+### NTSB
+National Transportation Safety Board
 
 ### NOTAM
 Notice to Airmen
@@ -407,3 +473,6 @@ Airworthiness Directive
 
 ### NAS
 National Airspace System
+
+### UAS
+Unmanned Aircraft Systems
