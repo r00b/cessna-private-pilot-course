@@ -26,6 +26,10 @@ Important acronyms, roughly ranked in order of descending importance.
     - [VFR](#vfr)
     - [IFR](#ifr)
     - [SVFR](#svfr)
+    - [IAS](#ias)
+    - [CAS](#cas)
+    - [TAS](#tas)
+    - [GS](#gs)
   - [Emergencies](#emergencies)
     - [ABC](#abc)
     - [FADD](#fadd)
@@ -79,6 +83,9 @@ Important acronyms, roughly ranked in order of descending importance.
     - [ELT](#elt)
     - [TOLD](#told)
     - [FS](#fs)
+    - [AHRS](#ahrs)
+    - [HSI](#hsi)
+    - [CDI](#cdi)
   - [Airport](#airport)
     - [ATIS](#atis)
     - [FBO](#fbo)
@@ -218,6 +225,18 @@ Instrument Flight Rules
 
 ### SVFR
 Special Visual Flight Rules
+
+### IAS
+Indicated Airspeed
+
+### CAS
+Calibrated Airspeed
+
+### TAS
+True Airspeed
+
+### GS
+Groundspeed
 
 
 ## Emergencies
@@ -385,6 +404,15 @@ Takeoff and Landing Data
 
 ### FS
 Fuselage Station
+
+### AHRS
+Altitude Heading Reference System
+
+### HSI
+Horizontal Situation Indicator
+
+### CDI
+Course Deviation Indicator
 
 
 ## Airport

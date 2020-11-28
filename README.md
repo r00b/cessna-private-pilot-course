@@ -34,5 +34,13 @@ Scenario 3: [Learning to Land](1.3-takeoffs-and-landings/3-learning-to-land.md)
 
 Scenario 4: [Charts, Publications, Hazards, and Emergencies](1.3-takeoffs-and-landings/4-charts-publications-hazards-emergencies.md)
 
+## Phase 4: Preparing for Solo Flight
+
+Scenario 1: [Airspace](1.4-preparing-for-solo-flight/1-airspace.md)
+
+Scenario 2: [Aviation Rules and Terminology](1.4-preparing-for-solo-flight/2-aviation-rules-and-terminology.md)
+
+Scenario 3: [Flight Instruments and Cockpit Displays](1.4-preparing-for-solo-flight/3-flight-instruments-and-cockpit-displays.md)
+
 # Other
 [Acronym Guide](acronyms.md)
