@@ -42,5 +42,11 @@ Scenario 2: [Aviation Rules and Terminology](1.4-preparing-for-solo-flight/2-avi
 
 Scenario 3: [Flight Instruments and Cockpit Displays](1.4-preparing-for-solo-flight/3-flight-instruments-and-cockpit-displays.md)
 
+Scenario 4: [GPS, Lost Procedures, and Emergency Instrument Skills](1.4-preparing-for-solo-flight/4-gps-lost-procedures-emergency-instrument-skills.md)
+
+## Phase 5: Solo Flight
+
+Scenario 1: [Solo Flight](1.5-solo-flight/1-solo-flight.md)
+
 # Other
 [Acronym Guide](acronyms.md)
