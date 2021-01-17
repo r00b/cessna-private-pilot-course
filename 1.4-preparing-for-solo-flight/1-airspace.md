@@ -22,7 +22,7 @@
 ### Basics of the Airspace System
 * Organized into several classes
 * Comply with International Civil Aviation Organization (ICAO) format of airspace classification
-* Depend on complexity/density of air traffic, nature of operations in airspace, level of safety required, national interested
+* Depend on complexity/density of air traffic, nature of operations in airspace, level of safety required, national interests
 * Two types
   * Uncontrolled airspace
     * No separation service for IFR flights
@@ -59,9 +59,9 @@
   * No communications requirements
 * Class F - not used in United States, but used in Canada as military/special use airspace
 
-[Airspaces](images/airspace.png)
+![Airspaces](images/airspace.png)
 
-[ADS-B Requirements](images/adsb.png)
+![ADS-B Requirements](images/adsb.png)
 
 ### Class G Airspace
 * "Go for it"
@@ -74,24 +74,24 @@
 * Default airspace if no controlled airspace depicted
 * Generally starts at surface and extends to base of Class E airspace
 
-[Class G](images/class-g.png)
+![Class G](images/class-g.png)
 
 * Boundary of Class E implies boundary of Class G
 
-[Class G boundary](images/class-g-boundary.png)
+![Class G boundary](images/class-g-boundary.png)
 
 * Magenta dashed line - class G airspace does not exist at surface, common around airports with instrument approaches
 
-[Class E surface](images/class-e-sfc.png)
+![Class E surface](images/class-e-sfc.png)
 
 * Inside fuzzy/faded side of magenta vignette, Class G airspace extends from surface up to but not including 700 feet AGL, where Class E begins
 
-[Class G magenta vignette](images/class-g-magenta-vignette.png)
+![Class G magenta vignette](images/class-g-magenta-vignette.png)
 
 * Inside fuzzy/faded side of blue vignette, Class G extends from surface up to but not including 1,200 feet AGL, where CLass E begins
 * Common around airways
 
-[Class G blue vignette](images/class-g-blue-vignette.png)
+![Class G blue vignette](images/class-g-blue-vignette.png)
 
 * So, class G extends up to but not including either 700 or 1,200 feet AGL
 * Can extend up to 14,500 feet MSL, where class E usually begins everywhere if it has not begun already
