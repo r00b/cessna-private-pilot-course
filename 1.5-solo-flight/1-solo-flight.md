@@ -9,7 +9,7 @@
 ### Solo Flight
 * Must be endorsed in logbook prior to soloing
   * Pre-solo Aeronautical Knowledge (FAR 61.87b)
-  * Pre-solo Flight Trainign (FAR 61.87c)
+  * Pre-solo Flight Training (FAR 61.87c)
   * Make and Model of Aircraft (FAR 61.87n)
 * Additional logbook endorsement is required for each additional 90-day period (FAR 61.87p)
 * Rules

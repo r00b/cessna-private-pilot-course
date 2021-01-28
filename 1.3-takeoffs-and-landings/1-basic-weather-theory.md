@@ -398,7 +398,7 @@
 
 ![Gust front](images/gust-front.png)
 
-* Embedded thunderstorms are hiddene in other clouds and dangerous to IFR pilots without on-board radar (cannot be spotted visually)
+* Embedded thunderstorms are hidden in other clouds and dangerous to IFR pilots without on-board radar (cannot be spotted visually)
 
 ![Gust front](images/gust-front-2.png)
 
@@ -419,7 +419,7 @@
   * Onboard weather radar if equipped
 
 ### Wind Shear and Microburst
-* Wind shear is suddent change over short distance or period of time in wind direction (horisontally and vertically) and speed
+* Wind shear is suddent change over short distance or period of time in wind direction (horizontally and vertically) and speed
 * Microbursts
   * Small-scale intense downdraft
   * Produced by some thunderstorms

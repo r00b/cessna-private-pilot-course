@@ -26,9 +26,9 @@ Important acronyms, roughly ranked in order of descending importance.
     - [VFR](#vfr)
     - [IFR](#ifr)
     - [SVFR](#svfr)
-    - [IAS](#ias)
+    - [(K)IAS](#kias)
     - [CAS](#cas)
-    - [TAS](#tas)
+    - [(K)TAS](#ktas)
     - [GS](#gs)
   - [Emergencies](#emergencies)
     - [ABC](#abc)
@@ -226,14 +226,14 @@ Instrument Flight Rules
 ### SVFR
 Special Visual Flight Rules
 
-### IAS
-Indicated Airspeed
+### (K)IAS
+(Knots) Indicated Airspeed
 
 ### CAS
 Calibrated Airspeed
 
-### TAS
-True Airspeed
+### (K)TAS
+(Knots) True Airspeed
 
 ### GS
 Groundspeed
