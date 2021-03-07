@@ -48,5 +48,11 @@ Scenario 4: [GPS, Lost Procedures, and Emergency Instrument Skills](1.4-preparin
 
 Scenario 1: [Solo Flight](1.5-solo-flight/1-solo-flight.md)
 
+## Phase 6: Getting Ready for Cross-Country Flying
+
+Scenario 1: [Advanced Takeoff and Landing Techniques](2.1-getting-ready-for-cross-country-flying/1-advanced-takeoff-and-landing-techniques.md)
+
+Scenario 2: [Reading Weather Reports and Charts](2.1-getting-ready-for-cross-country-flying/2-reading-weather-reports-and-charts.md)
+
 # Other
 [Acronym Guide](acronyms.md)

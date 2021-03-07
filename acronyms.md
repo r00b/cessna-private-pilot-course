@@ -57,6 +57,7 @@ Important acronyms, roughly ranked in order of descending importance.
     - [TRSA](#trsa)
     - [ONE](#one)
     - [NMAC](#nmac)
+    - [CONUS](#conus)
   - [Weather](#weather)
     - [VMC](#vmc)
     - [IMC](#imc)
@@ -69,6 +70,11 @@ Important acronyms, roughly ranked in order of descending importance.
     - [PIREP](#pirep)
     - [LLWAS](#llwas)
     - [CAT](#cat)
+    - [FA](#fa)
+    - [LAMP](#lamp)
+    - [MOS](#mos)
+    - [LLWS](#llws)
+    - [CWA](#cwa)
   - [Aircraft](#aircraft)
     - [POH](#poh)
     - [AFM](#afm)
@@ -324,6 +330,8 @@ Odd, North, East
 ### NMAC
 Near Midair Collision
 
+### CONUS
+Contiguous United States
 
 ## Weather
 
@@ -361,6 +369,21 @@ Low-Level Wind Shear Alert System
 
 ### CAT
 Clear Air Turbulence
+
+### FA
+Area Forecast
+
+### LAMP
+Localized Aviation MOS Program
+
+### MOS
+Model Output Statistics
+
+### LLWS
+Low-Level Wind Shear
+
+### CWA
+Center Weather Advisory
 
 
 ## Aircraft
