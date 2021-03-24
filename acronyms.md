@@ -58,6 +58,13 @@ Important acronyms, roughly ranked in order of descending importance.
     - [ONE](#one)
     - [NMAC](#nmac)
     - [CONUS](#conus)
+    - [WCA](#wca)
+    - [TH](#th)
+    - [TC](#tc)
+    - [ETE](#ete-1)
+    - [ATE](#ate)
+    - [ETA](#eta-1)
+    - [ATA](#ata)
   - [Weather](#weather)
     - [VMC](#vmc)
     - [IMC](#imc)
@@ -75,6 +82,7 @@ Important acronyms, roughly ranked in order of descending importance.
     - [MOS](#mos)
     - [LLWS](#llws)
     - [CWA](#cwa)
+    - [RCO](#rco)
   - [Aircraft](#aircraft)
     - [POH](#poh)
     - [AFM](#afm)
@@ -333,6 +341,28 @@ Near Midair Collision
 ### CONUS
 Contiguous United States
 
+### WCA
+Wind Correction Angle
+
+### TH
+True Heading
+
+### TC
+True Course
+
+### ETE
+Estimated Time En Route
+
+### ATE
+Actual Time En Route
+
+### ETA
+Estimated Time of Arrival
+
+### ATA
+Actual Time of Arrival
+
+
 ## Weather
 
 ### VMC
@@ -384,6 +414,9 @@ Low-Level Wind Shear
 
 ### CWA
 Center Weather Advisory
+
+### RCO
+Remote Communication Outlet (contact FSS)
 
 
 ## Aircraft
