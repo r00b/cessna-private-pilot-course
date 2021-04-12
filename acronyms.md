@@ -65,6 +65,15 @@ Important acronyms, roughly ranked in order of descending importance.
     - [ATE](#ate)
     - [ETA](#eta-1)
     - [ATA](#ata)
+    - [ADF](#adf)
+    - [NDB](#ndb)
+    - [RMI](#rmi)
+    - [VOR](#vor)
+    - [VORTAC](#vortac)
+    - [DME](#dme)
+    - [VOT](#vot)
+    - [CDI](#cdi)
+    - [OBS](#obs)
   - [Weather](#weather)
     - [VMC](#vmc)
     - [IMC](#imc)
@@ -99,7 +108,7 @@ Important acronyms, roughly ranked in order of descending importance.
     - [FS](#fs)
     - [AHRS](#ahrs)
     - [HSI](#hsi)
-    - [CDI](#cdi)
+    - [CDI](#cdi-1)
   - [Airport](#airport)
     - [ATIS](#atis)
     - [FBO](#fbo)
@@ -108,6 +117,13 @@ Important acronyms, roughly ranked in order of descending importance.
     - [PVASI](#pvasi)
     - [LAHSO](#lahso)
     - [ALD](#ald)
+    - [HIRL](#hirl)
+    - [MIRL](#mirl)
+    - [LIRL](#lirl)
+    - [RCLS](#rcls)
+    - [TDZL](#tdzl)
+    - [REIL](#reil)
+      - [ALS](#als)
   - [Theory](#theory)
     - [ADM](#adm)
     - [SRM](#srm)
@@ -362,6 +378,33 @@ Estimated Time of Arrival
 ### ATA
 Actual Time of Arrival
 
+### ADF
+Automatic Direction Finder
+
+### NDB
+Nondirectional Radio Beacon
+
+### RMI
+Radio Magnetic Indicator
+
+### VOR
+VHF Omnidirectional Range
+
+### VORTAC
+VOR/TACAN
+
+### DME
+Distance Measuring Equipment
+
+### VOT
+VOR Test Facility
+
+### CDI
+Course Deviation Indicator
+
+### OBS
+Omni Bearing Selector
+
 
 ## Weather
 
@@ -493,6 +536,28 @@ Land and Hold Short Operations
 
 ### ALD
 Available Landing Difference
+
+### HIRL
+High Intensity Runway Lights
+
+### MIRL
+Medium Intensity Runway Lights
+
+### LIRL
+Low Intensity Runway Lights
+
+### RCLS
+Runway Centerline Lighting System
+
+### TDZL
+Touchdown Zone Lights
+
+### REIL
+Runway End Identifier Lights
+
+#### ALS
+Approach Light Systems
+
 
 ## Theory
 
