@@ -62,6 +62,8 @@ Scenario 2: [Radio Navigation](2.3-flying-at-night/2-radio-navigation.md)
 Scenario 1: [Flying Longer Cross-Country Routes](2.4-advancing-your-skills/1-flying-longer-cross-country-routes.md)
 
 ## Phase 10
+Scenario 1: [How to Pass Your Checkride](2.5-preparing-for-your-practical-test/1-how-to-pass-your-checkride.md)]
+Scenario 2: [Your Responsibilities as a Certificated Pilot](2.5-preparing-for-your-practical-test/2-your-responsibilities-as-a-certificated-pilot.md)
 
 # Other
 [Acronym Guide](acronyms.md)
