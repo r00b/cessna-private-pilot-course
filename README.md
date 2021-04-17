@@ -66,7 +66,7 @@ Scenario 1: [Flying Longer Cross-Country Routes](2.4-advancing-your-skills/1-fly
 # Stage 3
 
 ## Phase 10: Preparing for Your Practical Test
-Scenario 1: [How to Pass Your Checkride](3.1-preparing-for-your-practical-test/1-how-to-pass-your-checkride.md)]
+Scenario 1: [How to Pass Your Checkride](3.1-preparing-for-your-practical-test/1-how-to-pass-your-checkride.md)
 
 Scenario 2: [Your Responsibilities as a Certificated Pilot](3.1-preparing-for-your-practical-test/2-your-responsibilities-as-a-certificated-pilot.md)
 
