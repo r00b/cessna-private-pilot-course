@@ -1,5 +1,16 @@
 # Your Responsibilities as a Certificated Pilot
 
+- [Your Responsibilities as a Certificated Pilot](#your-responsibilities-as-a-certificated-pilot)
+  - [I. Your Responsibilities as a Certificated Pilot](#i-your-responsibilities-as-a-certificated-pilot)
+    - [Staying Current](#staying-current)
+      - [Night Currency](#night-currency)
+      - [FAA Pilot Proficiency Program (WINGS)](#faa-pilot-proficiency-program-wings)
+    - [Broadening Your Horizons](#broadening-your-horizons)
+    - [Transitions to Unfamiliar Airplanes](#transitions-to-unfamiliar-airplanes)
+  - [II. Passengers](#ii-passengers)
+    - [Flying Safely and Risk Management](#flying-safely-and-risk-management)
+    - [Making Your First Passenger Flight a Success](#making-your-first-passenger-flight-a-success)
+
 ## I. Your Responsibilities as a Certificated Pilot
 
 ### Staying Current

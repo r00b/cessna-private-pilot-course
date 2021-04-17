@@ -43,6 +43,8 @@ Scenario 4: [GPS, Lost Procedures, and Emergency Instrument Skills](1.4-preparin
 ## Phase 5: Solo Flight
 Scenario 1: [Solo Flight](1.5-solo-flight/1-solo-flight.md)
 
+# Stage 2
+
 ## Phase 6: Getting Ready for Cross-Country Flying
 Scenario 1: [Advanced Takeoff and Landing Techniques](2.1-getting-ready-for-cross-country-flying/1-advanced-takeoff-and-landing-techniques.md)
 
@@ -61,9 +63,12 @@ Scenario 2: [Radio Navigation](2.3-flying-at-night/2-radio-navigation.md)
 ## Phase 9: Advancing Your Skills
 Scenario 1: [Flying Longer Cross-Country Routes](2.4-advancing-your-skills/1-flying-longer-cross-country-routes.md)
 
-## Phase 10
-Scenario 1: [How to Pass Your Checkride](2.5-preparing-for-your-practical-test/1-how-to-pass-your-checkride.md)]
-Scenario 2: [Your Responsibilities as a Certificated Pilot](2.5-preparing-for-your-practical-test/2-your-responsibilities-as-a-certificated-pilot.md)
+# Stage 3
+
+## Phase 10: Preparing for Your Practical Test
+Scenario 1: [How to Pass Your Checkride](3.1-preparing-for-your-practical-test/1-how-to-pass-your-checkride.md)]
+
+Scenario 2: [Your Responsibilities as a Certificated Pilot](3.1-preparing-for-your-practical-test/2-your-responsibilities-as-a-certificated-pilot.md)
 
 # Other
 [Acronym Guide](acronyms.md)
